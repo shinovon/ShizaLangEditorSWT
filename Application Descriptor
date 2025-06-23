@@ -1,0 +1,7 @@
+MIDlet-Version: 0.6
+MIDlet-Vendor: nnproject
+MIDlet-Jar-URL: shizaLocaleEditorSWT.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
+MIDlet-1: Shiza Locale Editor SWT,,LocaleEditorMIDlet
+MIDlet-Name: Shiza Locale Editor SWT
